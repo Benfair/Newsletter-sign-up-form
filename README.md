@@ -36,8 +36,8 @@ Users should be able to:
 ![](mydesign/mobile-success.png)
 
 ### Links
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [GitHub link](https://github.com/Benfair/Newsletter-sign-up-form)
+- Live Site URL: [Deployed link](https://newsletter-sign-up-form-one-nu.vercel.app/)
 
 ## My process
 ### Built with
